@@ -1,7 +1,7 @@
 ## Home Renting Listing App 
 
 A simple home renting listing application built using the Angular framework and JSON Server. The application features a listing of available rental units, including details such as location, state, photo, Wi-Fi availability, and laundry facilities.
-
+![Home Renting](https://github.com/robertregalado/listing-app/blob/master/snapshot.png)
 ### Features
 
 - **Units Available**: Display the number of rental units available.
