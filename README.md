@@ -62,8 +62,8 @@ home-listing-app/
 1. **Clone the Repository:**
 
    ```sh
-   git clone https://github.com/your-username/home-listing-app.git
-   cd home-listing-app
+   git clone https://github.com/your-username/listing-app.git
+   cd listing-app
    ```
 
 2. **Install Dependencies:**
