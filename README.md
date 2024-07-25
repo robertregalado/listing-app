@@ -320,7 +320,7 @@ export interface HousingLocation {
   laundry: boolean;
 }
 ```
-
+**Credit to:** *Angular youtube tutorials!*
 ### Summary
 
 This home renting listing app provides a simple interface to display and filter rental units based on their location, state, photo, Wi-Fi availability, and laundry facilities. It uses Angular for the frontend and JSON Server for the backend, making it easy to set up and extend.
